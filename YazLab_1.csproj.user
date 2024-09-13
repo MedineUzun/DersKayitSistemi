@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ogrenci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OgrenciEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OgrenciGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OgrenciGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ogrencilistele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OgrenciMesajlas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OgrenciSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ogretmen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OgretmenEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OgretmenGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OgretmenGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ogretmenlistele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OgretmenMesajlas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OgretmenSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Yonetici.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YoneticiGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="İlgialaniekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="İlgialanigüncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="İlgialanisil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
